@@ -1,0 +1,4 @@
+#!/bin/bash
+cd ~/.mozilla-thunderbird/r1044d8w.default/Mail/pop.gmail.com
+cat vimeo | grep played | grep uploading > /sketchBook/2009/12-prosinec/vimeoStat/list.txt
+exit

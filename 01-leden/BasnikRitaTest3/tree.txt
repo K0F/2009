@@ -1,0 +1,24 @@
+Folder PATH listing for volume SketchBook
+Volume serial number is 00740073 74D3:BE1F
+I:.
+|   BasnikRitaTest3.pde
+|   BasnikRitaTest3.pde~
+|   synth.pde
+|   synth.pde~
+|   tree.txt
+|   
++---code
+|       cmudict04.jar
+|       cmulex.jar
+|       cmutimelex.jar
+|       cmu_time_awb.jar
+|       cmu_us_kal.jar
+|       en_us.jar
+|       freetts.jar
+|       jsapi.jar
+|       
+\---data
+        00Acrobatix-8.vlw
+        00Antix-8.vlw
+        Verdana-Bold-48.vlw
+        

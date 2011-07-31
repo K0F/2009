@@ -1,0 +1,210 @@
+import codeanticode.gsvideo.*;
+
+//Translator tr;
+GSPipeline cam;
+PImage store;
+Deconstructor a;
+PGraphics result;
+int W,H;
+int matrix[];
+
+import codeanticode.gsvideo.*;
+
+
+void setup(){
+
+	store = loadImage("bratri.png");
+	a = new Deconstructor(store);
+	size(store.width,store.height,P2D);
+	//cam = new GSCapture(this,720,576,"v4lsrc");
+	result = createGraphics(width,height,P2D);
+	W = (int)(store.width);
+	H = (int)(store.height);
+	loadMatrix();
+	cam = new GSPipeline(this,"dv1394src ! dvdemux ! ffdec_dvvideo ! ffdeinterlace ! ffmpegcolorspace ! videoscale  ! video/x-raw-rgb ,width = "+ W +",height = "+ H +", bpp=32, depth=24 ");
+
+	//tr = new Translator(10);
+	frameRate(20);
+	noStroke();
+	stroke(255,25);
+	noSmooth();
+}
+
+
+void loadMatrix(){
+	String[] tmp = loadStrings("matix.txt");
+	matrix = new int[tmp.length];
+	
+	for(int i =0;i<tmp.length;i++){
+		matrix[i] = parseInt(tmp[i]);
+	}
+
+}
+
+
+void draw(){
+	//background(0);
+	fill(0,25);
+	rect(0,0,width,height);
+
+	readCam();
+
+
+
+	//stroke(random(255),random(255),random(255),60);
+	//a.draw();
+	//tr.draw();
+
+
+}
+
+void readCam(){
+	if (cam.available() == true) {
+		try{
+			//try{
+			cam.read();
+		//	}catch( Exception f){
+			//	println("bufferOver!");
+			//}
+			//store=cam;
+
+			//if(bw)store.filter(GRAY);
+			//cam.resize(0,320);
+
+			//for(int i =0;i<ons.length;i++){
+			//	ons[i] = true;
+			//waits[i] = w;
+			//
+			//}
+
+			result.beginDraw();
+			int g = 0;
+			for(int y =0;y<cam.height;y++){
+				for(int x =0;x<cam.width;x++){
+					if(x<20||x>cam.width-20||y<20||y>cam.height-20)
+						result.pixels[y*result.width+x]=cam.pixels[y*cam.width+x];
+					else
+					result.pixels[y*cam.width+x]=cam.pixels[matrix[y*cam.width+x]];
+					g++;
+				}
+			}
+			result.endDraw();
+
+			image(result,0,0);
+
+
+		}catch(java.lang.NullPointerException e){
+			println("weird error! @ "+frameCount);
+		}
+	}
+}
+
+class Deconstructor{
+	PImage src;
+	boolean data [][][];
+	int fram = 0;
+
+	Deconstructor(PImage _src){
+		src = _src;
+		data = new boolean[8][src.width][src.height];
+		codeData();
+	}
+
+	void codeData(){
+
+		for(int i = 0;i<data.length;i++){
+			for(int ii = 0;ii<data[i].length;ii++){
+				for(int iii = 0;iii<data[i][ii].length;iii++){
+					if(binary((int)brightness(src.pixels[iii*src.width+ii]),8).charAt(i) == '1'){
+						data[i][ii][iii] = true;
+					}else{
+						data[i][ii][iii] = false;
+					}
+				}
+			}
+
+		}
+
+	}
+
+	void draw(){
+
+		for(int ii = 0;ii<data[0].length;ii++){
+			for(int iii = 0;iii<data[0][0].length;iii++){
+
+				if(data[fram][ii][iii]){
+					point(ii,iii);
+				}
+
+			}
+		}
+
+
+
+		fram++;
+		if(fram>=data.length-1){
+			fram = 0;
+		}
+	}
+
+
+
+}
+
+
+
+class Translator{
+
+	float ins[],outs[],ws[][];
+
+	Translator(int kolik){
+
+
+		ws = new float[kolik][kolik];
+		outs = new float[kolik];
+		ins = new float[kolik];
+
+		for(int i = 0;i<ws.length;i++)
+		{
+			for(int r = 0;r<ws.length;r++){
+				ws[i][r] = random(1000)/1000.0;
+			}
+			ins[i] = random(255);
+			outs[i] = 0;
+
+		}
+
+		reset();
+
+	}
+
+	void draw(){
+		for(int q = 0;q<ws.length;q++){
+			float sum = 0;
+			for(int i = 0;i<ws.length;i++){
+				sum += (ws[q][i]*ins[i]);
+			}
+			outs[q] = sum/(ws.length+0.0);
+		}
+
+
+		for(int i = 0;i<ws.length;i++){
+			ins[i] = brightness(cam.pixels[(10+i*10)*cam.width+10]);
+			fill(ins[i]);
+			rect(10,10+i*10,10,10);
+
+			fill(outs[i]);
+			rect(30,10+i*10,10,10);
+
+		}
+
+
+	}
+
+	void reset(){
+
+
+	}
+
+
+}

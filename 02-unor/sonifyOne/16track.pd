@@ -1,0 +1,28 @@
+#N canvas 889 184 238 204 10;
+#X obj 8 3 dumpOSC 12000;
+#X obj 127 143 dac~ 1 2;
+#X obj 124 121 *~;
+#X obj 148 121 *~;
+#X obj -16 105 route @;
+#X obj 5 33 cnv 15 170 60 empty empty empty 20 12 0 14 -33289 -66577
+0;
+#X floatatom 28 40 5 0 0 0 - - -;
+#X floatatom 62 38 5 0 0 0 - - -;
+#X floatatom 97 40 5 0 0 0 - - -;
+#X floatatom 132 41 5 0 0 0 - - -;
+#X obj 11 68 soundSysOne16;
+#X floatatom 169 97 5 0 0 0 - - -;
+#X connect 0 0 4 0;
+#X connect 0 0 10 0;
+#X connect 2 0 1 0;
+#X connect 3 0 1 1;
+#X connect 4 0 3 1;
+#X connect 4 0 2 1;
+#X connect 6 0 10 1;
+#X connect 7 0 10 2;
+#X connect 8 0 10 3;
+#X connect 9 0 10 4;
+#X connect 10 0 2 0;
+#X connect 10 1 3 0;
+#X connect 11 0 3 1;
+#X connect 11 0 2 1;

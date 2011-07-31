@@ -1,0 +1,4 @@
+<filter name=”gaussian blur”>
+<description>3×3 Gaussian blur filter</description>
+<fragment>Blur.glsl</fragment>
+</filter>

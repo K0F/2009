@@ -1,0 +1,112 @@
+/**
+ * Loop. 
+ * Built-in video library replaced with gsvideo by Andres Colubri
+ * 
+ * Move the cursor across the screen to draw. 
+ * Shows how to load and play a QuickTime movie file.  
+ */
+
+import codeanticode.gsvideo.*;
+
+GSMovie myMovie;
+
+int matrix[];
+PGraphics temp;
+
+int W = 320;
+int H = 240;
+Corner c[] = new Corner[4];
+
+void setup() {
+	size(640, 480, P2D);
+	background(0);
+	// Load and play the video in a loop
+	temp = createGraphics(W,H,P2D);
+	loadMatrix();
+	
+	textureMode(NORMALIZED);
+	ellipseMode(CENTER);
+	noStroke();
+	
+	c[0] = new Corner(10.0,10.0,0.0,0.0);
+	c[1] = new Corner(width-10.0,10.0,1.0,0.0);
+	c[2] = new Corner(width-10.0,height-10.0,1.0,1.0);
+	c[3] = new Corner(10.0,height-10.0,0.0,1.0);
+	
+	myMovie = new GSMovie(this, "vid.mpg");
+	myMovie.loop();
+}
+
+void movieEvent(GSMovie myMovie) {
+	myMovie.read();
+}
+
+void loadMatrix(){
+	String[] tmp = loadStrings("matix.txt");
+	matrix = new int[tmp.length];
+
+	for(int y = 0;y<H;y++){
+		for(int x = 0;x<W;x++){
+			matrix[y*W+x] = parseInt(tmp[y*W+x]);
+		}
+	}
+
+}
+
+void draw() {
+
+	temp.beginDraw();
+	temp.image(myMovie,0,0,W,H);
+	temp.endDraw();
+
+	temp.loadPixels();
+	for(int y = 0;y<H;y++){
+		for(int x = 0;x<W;x++){
+			temp.pixels[matrix[y*W+x]] = temp.pixels[y*W+x];
+		}
+	}
+	
+	background(0);
+
+	beginShape();
+	texture(temp);
+	for(int i =0 ;i<c.length;i++){
+		c[i].draw();
+	}
+	endShape();
+}
+
+void mouseReleased(){
+	for(int i =0 ;i<c.length;i++){
+		c[i].over = false;
+	}
+}
+
+
+class Corner{
+	boolean over;
+	float x,y,u,v;
+
+	Corner(float _x,float _y,float _u, float _v){
+		x=_x;
+		y=_y;
+		u=_u;
+		v=_v;
+	}
+
+	void draw(){
+		if(abs(mouseX-x)<15&&abs(mouseY-y)<15&&mousePressed)
+			over = true;
+
+
+		vertex(x,y,u,v);
+
+		if(over){
+			x = mouseX;
+			y = mouseY;
+			ellipse(x,y,15,15);
+		}
+	}
+
+
+}

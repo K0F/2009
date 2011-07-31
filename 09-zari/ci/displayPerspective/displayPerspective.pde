@@ -1,0 +1,74 @@
+
+PImage tex;
+
+Corner c[] = new Corner[4];
+
+void setup(){
+
+	size(640,480,P2D);
+	tex = loadImage("screen.png");
+
+	c[0] = new Corner(10.0,10.0,0.0,0.0);
+	c[1] = new Corner(width-10.0,10.0,1.0,0.0);
+	c[2] = new Corner(width-10.0,height-10.0,1.0,1.0);
+	c[3] = new Corner(10.0,height-10.0,0.0,1.0);
+
+
+	frameRate(25);
+	textureMode(NORMALIZED);
+	ellipseMode(CENTER);
+	stroke(#FFCC00);
+	//noFill();
+
+
+}
+
+
+void draw(){
+	background(0);
+
+	beginShape();
+	texture(tex);
+	for(int i =0 ;i<c.length;i++){
+		c[i].draw();
+	}
+	endShape();
+
+
+
+
+}
+void mouseReleased(){
+	for(int i =0 ;i<c.length;i++){
+		c[i].over = false;
+	}
+}
+
+
+class Corner{
+	boolean over;
+	float x,y,u,v;
+
+	Corner(float _x,float _y,float _u, float _v){
+		x=_x;
+		y=_y;
+		u=_u;
+		v=_v;
+	}
+
+	void draw(){
+		if(abs(mouseX-x)<10&&abs(mouseY-y)<10&&mousePressed)
+			over = true;
+
+
+		vertex(x,y,u,v);
+
+		if(over){
+			x = mouseX;
+			y = mouseY;
+			ellipse(x,y,10,10);
+		}
+	}
+
+
+}

@@ -1,0 +1,83 @@
+import processing.pdf.*;
+PImage store;
+
+int matrix[];
+
+void setup(){
+
+
+	store = loadImage("320x240.png");
+	size(store.width,store.height,P3D);
+	loadMatrix();
+
+	loadPixels();
+	store.loadPixels();
+	for(int y = 0;y<height;y++){
+		for(int x = 0;x<width;x++){
+			pixels[matrix[y*width+x]] = store.pixels[y*width+x];
+		}
+	}
+
+
+	PGraphics pdf = createGraphics(width,height, PDF, "noise.pdf");
+	pdf.beginDraw();
+	pdf.background(255);
+	pdf.fill(0);
+	pdf.noStroke();
+	for(int y = 0;y<pdf.height;y++){
+		for(int x = 0;x<pdf.width;x++){
+			pdf.fill(brightness(store.pixels[matrix[y*pdf.width+x]]));
+			pdf.rect(x,y,1,1);
+		}
+	}
+	pdf.dispose();
+	pdf.endDraw();
+	save("screen.png");
+	exit();
+
+
+
+}
+
+void loadMatrix(){
+	String[] tmp = loadStrings("matix.txt");
+	matrix = new int[tmp.length];
+
+	for(int y = 0;y<height;y++){
+		for(int x = 0;x<width;x++){
+			matrix[y*width+x] = parseInt(tmp[y*width+x]);
+		}
+	}
+
+}
+
+void makeMatrix(){
+
+	String[] newMatrix = new String[width*height];
+	int g = 0;
+
+
+	Random rgen = new Random();  // Random number generator
+	int[] cards = new int[store.width*store.height];
+
+	//--- Initialize the array to the ints 0-51
+	for (int i=0; i<cards.length; i++) {
+		cards[i] = i;
+	}
+
+	//--- Shuffle by exchanging each element randomly
+	for (int i=0; i<cards.length; i++) {
+		int randomPosition = rgen.nextInt(cards.length);
+		int temp = cards[i];
+		cards[i] = cards[randomPosition];
+		cards[randomPosition] = temp;
+	}
+
+	for (int i=0; i<cards.length; i++) {
+		newMatrix[i] = cards[i]+"";
+	}
+
+	matrix = cards;
+	saveStrings("matix.txt",newMatrix);
+
+}

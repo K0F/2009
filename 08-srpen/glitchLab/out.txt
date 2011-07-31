@@ -1,0 +1,1709 @@
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 30 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 30 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 30 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 30 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 30 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 30 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 30 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 30 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+sun.awt.image.ImageFormatException: Bogus Huffman table definition
+	at sun.awt.image.JPEGImageDecoder.readImage(Native Method)
+	at sun.awt.image.JPEGImageDecoder.produceImage(JPEGImageDecoder.java:119)
+	at sun.awt.image.InputStreamImageSource.doFetch(InputStreamImageSource.java:246)
+	at sun.awt.image.ImageFetcher.fetchloop(ImageFetcher.java:172)
+	at sun.awt.image.ImageFetcher.run(ImageFetcher.java:136)
+sun.awt.image.ImageFormatException: Bogus Huffman table definition
+	at sun.awt.image.JPEGImageDecoder.readImage(Native Method)
+	at sun.awt.image.JPEGImageDecoder.produceImage(JPEGImageDecoder.java:119)
+	at sun.awt.image.InputStreamImageSource.doFetch(InputStreamImageSource.java:246)
+	at sun.awt.image.ImageFetcher.fetchloop(ImageFetcher.java:172)
+	at sun.awt.image.ImageFetcher.run(ImageFetcher.java:136)
+The file bratriMod.jpg contains bad image data, or may not be an image.
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 33 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 33 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+sun.awt.image.ImageFormatException: Bogus Huffman table definition
+	at sun.awt.image.JPEGImageDecoder.readImage(Native Method)
+	at sun.awt.image.JPEGImageDecoder.produceImage(JPEGImageDecoder.java:119)
+	at sun.awt.image.InputStreamImageSource.doFetch(InputStreamImageSource.java:246)
+	at sun.awt.image.ImageFetcher.fetchloop(ImageFetcher.java:172)
+	at sun.awt.image.ImageFetcher.run(ImageFetcher.java:136)
+sun.awt.image.ImageFormatException: Bogus Huffman table definition
+	at sun.awt.image.JPEGImageDecoder.readImage(Native Method)
+	at sun.awt.image.JPEGImageDecoder.produceImage(JPEGImageDecoder.java:119)
+	at sun.awt.image.InputStreamImageSource.doFetch(InputStreamImageSource.java:246)
+	at sun.awt.image.ImageFetcher.fetchloop(ImageFetcher.java:172)
+	at sun.awt.image.ImageFetcher.run(ImageFetcher.java:136)
+The file bratriMod.jpg contains bad image data, or may not be an image.
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 30 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 30 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 30 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 30 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+sun.awt.image.ImageFormatException: Bogus marker length
+	at sun.awt.image.JPEGImageDecoder.readImage(Native Method)
+	at sun.awt.image.JPEGImageDecoder.produceImage(JPEGImageDecoder.java:119)
+	at sun.awt.image.InputStreamImageSource.doFetch(InputStreamImageSource.java:246)
+	at sun.awt.image.ImageFetcher.fetchloop(ImageFetcher.java:172)
+	at sun.awt.image.ImageFetcher.run(ImageFetcher.java:136)
+sun.awt.image.ImageFormatException: Bogus marker length
+	at sun.awt.image.JPEGImageDecoder.readImage(Native Method)
+	at sun.awt.image.JPEGImageDecoder.produceImage(JPEGImageDecoder.java:119)
+	at sun.awt.image.InputStreamImageSource.doFetch(InputStreamImageSource.java:246)
+	at sun.awt.image.ImageFetcher.fetchloop(ImageFetcher.java:172)
+	at sun.awt.image.ImageFetcher.run(ImageFetcher.java:136)
+The file bratriMod.jpg contains bad image data, or may not be an image.
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+sun.awt.image.ImageFormatException: Huffman table 0x06 was not defined
+	at sun.awt.image.JPEGImageDecoder.readImage(Native Method)
+	at sun.awt.image.JPEGImageDecoder.produceImage(JPEGImageDecoder.java:119)
+	at sun.awt.image.InputStreamImageSource.doFetch(InputStreamImageSource.java:246)
+	at sun.awt.image.ImageFetcher.fetchloop(ImageFetcher.java:172)
+	at sun.awt.image.ImageFetcher.run(ImageFetcher.java:136)
+sun.awt.image.ImageFormatException: Huffman table 0x06 was not defined
+	at sun.awt.image.JPEGImageDecoder.readImage(Native Method)
+	at sun.awt.image.JPEGImageDecoder.produceImage(JPEGImageDecoder.java:119)
+	at sun.awt.image.InputStreamImageSource.doFetch(InputStreamImageSource.java:246)
+	at sun.awt.image.ImageFetcher.fetchloop(ImageFetcher.java:172)
+	at sun.awt.image.ImageFetcher.run(ImageFetcher.java:136)
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+sun.awt.image.ImageFormatException: Invalid component ID 7 in SOS
+	at sun.awt.image.JPEGImageDecoder.readImage(Native Method)
+	at sun.awt.image.JPEGImageDecoder.produceImage(JPEGImageDecoder.java:119)
+	at sun.awt.image.InputStreamImageSource.doFetch(InputStreamImageSource.java:246)
+	at sun.awt.image.ImageFetcher.fetchloop(ImageFetcher.java:172)
+	at sun.awt.image.ImageFetcher.run(ImageFetcher.java:136)
+sun.awt.image.ImageFormatException: Invalid component ID 7 in SOS
+	at sun.awt.image.JPEGImageDecoder.readImage(Native Method)
+	at sun.awt.image.JPEGImageDecoder.produceImage(JPEGImageDecoder.java:119)
+	at sun.awt.image.InputStreamImageSource.doFetch(InputStreamImageSource.java:246)
+	at sun.awt.image.ImageFetcher.fetchloop(ImageFetcher.java:172)
+	at sun.awt.image.ImageFetcher.run(ImageFetcher.java:136)
+The file bratriMod.jpg contains bad image data, or may not be an image.
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+sun.awt.image.ImageFormatException: Bogus Huffman table definition
+	at sun.awt.image.JPEGImageDecoder.readImage(Native Method)
+	at sun.awt.image.JPEGImageDecoder.produceImage(JPEGImageDecoder.java:119)
+	at sun.awt.image.InputStreamImageSource.doFetch(InputStreamImageSource.java:246)
+	at sun.awt.image.ImageFetcher.fetchloop(ImageFetcher.java:172)
+	at sun.awt.image.ImageFetcher.run(ImageFetcher.java:136)
+sun.awt.image.ImageFormatException: Bogus Huffman table definition
+	at sun.awt.image.JPEGImageDecoder.readImage(Native Method)
+	at sun.awt.image.JPEGImageDecoder.produceImage(JPEGImageDecoder.java:119)
+	at sun.awt.image.InputStreamImageSource.doFetch(InputStreamImageSource.java:246)
+	at sun.awt.image.ImageFetcher.fetchloop(ImageFetcher.java:172)
+	at sun.awt.image.ImageFetcher.run(ImageFetcher.java:136)
+The file bratriMod.jpg contains bad image data, or may not be an image.
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Premature end of JPEG file
+Premature end of JPEG file
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 24 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 21 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 9 extraneous bytes before marker 0xd9
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: bad Huffman code
